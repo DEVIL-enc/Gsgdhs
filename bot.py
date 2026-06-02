@@ -15,11 +15,11 @@ from sq_commands import register_handlers as register_sq_handlers
 from chk_command import register_handlers as register_chk_handlers
 
 # Config
-API_ID = 21124241
-API_HASH = "b7ddce3d3683f54be788fddae73fa468"
-BOT_TOKEN = "8437833285:AAFoyFrmGz56N16U1fo9tSVdZi8flwIMC64" # Replace with your Bot Token
-ADMIN_ID = [7292047135, 1308204344, 7856977111, 7029965057, 5295792382, 1965289355] # Replace with your Admin ID(s)
-GROUP_ID = -1002675617125 # Replace with your Group ID
+API_ID = 39825025
+API_HASH = "47170fd9a11b3f591bbc56849519f0f8"
+BOT_TOKEN = "7415995546:AAHxcXy-WLviEaPPgAqKfq0w7M0Xq8Jyg1U" # Replace with your Bot Token
+ADMIN_ID = [1707478010] # Replace with your Admin ID(s)
+GROUP_ID = -1003737082601 # Replace with your Group ID
 
 # Files
 PREMIUM_FILE = "premium.json"
