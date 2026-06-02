@@ -1,0 +1,7 @@
+Telethon
+requests
+aiohttp
+aiofiles
+httpx
+user_agent
+requests_toolbelt
